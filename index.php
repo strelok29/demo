@@ -1,5 +1,5 @@
 <?php
-$servername = "localhost";
+$servername = "demowebcybermax.database.windows.net";
 $username = "rifqi";
 $password = "P@ssw0rd01!";
 
