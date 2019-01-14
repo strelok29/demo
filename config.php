@@ -2,7 +2,7 @@
 
  
 $databaseHost = 'demowebcybermax-mysqldbserver.mysql.database.azure.com';
-$databaseName = 'demo01';
+$databaseName = 'demo02';
 $databaseUsername = 'rifqi@demowebcybermax-mysqldbserver';
 $databasePassword = 'P@ssw0rd01!';
  
